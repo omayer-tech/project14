@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+}
+div{
+    text-align: center;
+}
+.text_section{
+    
+    margin-top: 15px;
+}
+.gif_section{
+    height: 300px;   
+   
+}
+img{
+    height: 70%;
+    margin: 5%;
+}
+.buttons{
+    margin: 5px 10px;
+    padding: 20px 10px;
+}
+button{
+    padding: 10px 15px;
+    margin: 5px 10px;
+}
+#yes{
+    background-color: rgb(25, 207, 9);
+}
+#neg{
+    background-color: rgb(240, 2, 2);
+}
+button:hover{
+    cursor: pointer;
+}
